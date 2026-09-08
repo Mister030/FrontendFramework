@@ -1,0 +1,14 @@
+body {
+  background-color: #101828;
+  color: white;
+}
+
+h1 {
+  color: #f5b445;
+}
+
+.btn-primary {
+  background-color: #f5b445;
+  border-color: #f5b445;
+  color: #101828;
+}
